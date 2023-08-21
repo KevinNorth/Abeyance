@@ -1,0 +1,20 @@
+*
+!*/
+!.gitignore
+
+!README.md
+
+!Assets/Scripts/**
+
+**/*.asmdef
+**/*.meta
+**/.gitignore
+**/README.md
+
+# Code I wrote but that borrows heavily from packages I'm not licensed to share
+Assets/Scripts/General/TopDownEngine/Abilities/With Stamina Added/CharacterDash2DWithStamina.cs
+Assets/Scripts/General/TopDownEngine/Abilities/With Stamina Added/CharacterTimeControlWithStamina.cs
+Assets/Scripts/General/TopDownEngine/Abilities/CharacterFallDownHolesAndRespawn2D.cs
+Assets/Scripts/General/TopDownEngine/Abilities/CharacterMoveSlowly.cs
+Assets/Scripts/Third-Party Asset Modifications
+Assets/Scripts/UI/HUD/MultiLayerProgressBar.cs
